@@ -1,0 +1,2 @@
+# Typography and hierarchy
+Assign display, heading, body and supporting roles deliberately. Check the rendered typeface actually loads. Use a coherent scale, readable body measure, deliberate line breaks, and spacing that separates related and unrelated content. Tune tracking and leading to the chosen face and size; do not impose one serif/sans pairing on every business. Headings, labels, prices and calls to action need distinct roles. Inspect real mobile wraps, clipping, long labels, keyboard focus and zoom. A font name in a plan is not proof the delivered page uses it.
