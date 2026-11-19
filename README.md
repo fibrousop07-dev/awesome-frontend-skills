@@ -4,6 +4,8 @@ A pack of Claude Code skills for building and polishing frontend work: design ta
 
 ## What's inside
 
+**Start here:** `awesome-frontend-skills` is a router skill. Run `/awesome-frontend-skills` with a task (or `list`) and it picks the right 2-3 skills from the catalog, loads them in a sensible order and combines their guidance. Its catalog also covers skills that aren't bundled here.
+
 **Polish and design**
 - `site-glow-up` – full pass over an already built site (design, motion, copy)
 - `design-theory-pass` – fixes hierarchy, spacing, contrast and layout
